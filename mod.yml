@@ -1,0 +1,14 @@
+title: KH1 Modern Camera (0.4.0)
+originalAuthor: Mariano
+description: >-
+  Makes the KH1 camera feel like a modern game: responsive right-stick turning
+  with no inertia and no automatic re-centering. Speed and sensitivity are
+  configurable. Works with lock-on camera mods like KH2 Style Camera. Don't use
+  with CameraSpeedSlider. Steam version only.
+game: kh1
+assets:
+- name: scripts/KH1_Modern_Camera.lua
+  platform: pc
+  method: copy
+  source:
+  - name: KH1_Modern_Camera.lua
