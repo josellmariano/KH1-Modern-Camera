@@ -2,7 +2,7 @@ LUAGUI_NAME = "KH1 Modern Camera"
 LUAGUI_AUTH = "Mariano"
 LUAGUI_DESC = "Modern right-stick camera: analog turning with no inertia, adjustable speed, no automatic vertical recentering."
 
-local MOD_VERSION = "0.4.0"
+local MOD_VERSION = "1.0.0"
 
 -- ============================ SETTINGS ============================
 -- Players change these in KH1_Modern_Camera_Config.lua in the game folder
